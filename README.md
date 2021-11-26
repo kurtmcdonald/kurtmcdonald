@@ -2,7 +2,7 @@
 ###  A Full Stack Developer who loves creating & building applications
 
 - 💻 I have recently graduated **Le Wagon's Ruby on Rails Bootcamp**
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **golang**
 - 👨🏽‍💻 Checkout the rails protoype i built - https://www.yellow-ticket.com/
 - 📫 How to reach me: kurtmcdonald24@gmail.com
 - 💻 - Something you should know about me...I am obsessed with Football Manager. 
